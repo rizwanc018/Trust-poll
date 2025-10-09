@@ -1,0 +1,6 @@
+[submodule "trust-poll-backend"]
+	path = trust-poll-backend
+	url = https://github.com/rizwanc018/trust-poll-backend.git
+[submodule "trust-poll-frontend"]
+	path = trust-poll-frontend
+	url = https://github.com/rizwanc018/trust-poll-frontend.git
